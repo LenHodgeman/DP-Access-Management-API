@@ -2,9 +2,9 @@
 
 Version 3.1.1
 
-[[Download PDF version of this document]](Overview.pdf)  
+[Download PDF](Overview.pdf)  {: .btn }
 
-[Link button](https://github.com/LenHodgeman/DP-Access-Management-API){: .btn }
+[View on GitHub](https://github.com/LenHodgeman/DP-Access-Management-API){: .btn }
 
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
