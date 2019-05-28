@@ -2,7 +2,6 @@
 layout: default
 title: Enrollment API
 parent: REST API
-permalink: \samples\REST-samples\access-management.js\docs\
 nav_order: 1
 ---
 

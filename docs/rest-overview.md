@@ -10,7 +10,7 @@ nav_order: 1
 
 The DigitalPersona REST APIs consist of the following sets of exposed features.
 
-<table style="width:70%;margin-left:auto;margin-right:auto;">
+<table style="width:100%;margin-left:auto;margin-right:auto;">
   <tr>
     <th style="width:181px">API</th>
     <th>Description</th>
@@ -30,5 +30,5 @@ The DigitalPersona REST APIs consist of the following sets of exposed features.
 </table>
 
 
-[Enrollment API](/docs/rest-api/web-enrollment/Enrollment-API.md)  
+[Enrollment API](../web-authentication/Enrollment-API.md)  
 [Authentication API](Authentication-API.md)
