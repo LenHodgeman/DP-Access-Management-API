@@ -1,5 +1,4 @@
 ---
-parent: Overview
 permalink: /docs/appendix
 nav_order: 3
 ---
