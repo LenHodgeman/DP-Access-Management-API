@@ -1,7 +1,7 @@
 ---
 parent: Native API
-has_children: true
 permalink: /docs/native
+nav_order: 1
 ---
 # Native API
 

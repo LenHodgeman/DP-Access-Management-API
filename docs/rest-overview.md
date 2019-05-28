@@ -2,7 +2,7 @@
 layout: default
 title: REST API
 has_children: true
-permalink: /docs/rest-api
+permalink: /docs/rest-api/web-authentication
 has_toc: false
 nav_order: 1
 ---
