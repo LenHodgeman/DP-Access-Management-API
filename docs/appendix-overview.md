@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Appendix
 has_children: true
 permalink: /docs/appendix
