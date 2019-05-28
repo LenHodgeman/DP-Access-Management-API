@@ -1,7 +1,8 @@
 ---
+parent: README.md
 has_children: true
 permalink: /docs/rest-api
-has_toc: false 
+has_toc: false
 ---
 # REST APIs
 
