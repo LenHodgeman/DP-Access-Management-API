@@ -20,9 +20,8 @@ For detailed instructions on installing and configuring the DigitalPersona envir
 
 When you install a DigitalPersona Workstation or Kiosk client, the DigitalPersona AUTH API runtime is installed as well. As shown in the diagram below, your application must be installed on workstations that are also running one of the DigitalPersona clients.
 
-<p align="center">
-![](assets/NATIVE-API-91e58d68.png)
-</p>
+![](docs/assets/NATIVE-API-91e58d68.png)
+
 The API can be used for the following:
 
 * Authenticating users with the authentication policy and user interface used by DigitalPersona Workstation/Kiosk and optionally reading a user secret.
