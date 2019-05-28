@@ -64,7 +64,7 @@ DigitalPersona Server running Windows Server 2012 and DigitalPersona AD or LDS S
 
 See the topic Supported DigitalPersona Products below for a complete list of compatible DigitalPersona clients and servers.
 
-#### REST APIs
+#### REST APIs 
 In addition to the requirements listed above, the following are required for use of the Web AUTH and Web Enrollment APIs.
 
 * Windows Web Server (IIS)
