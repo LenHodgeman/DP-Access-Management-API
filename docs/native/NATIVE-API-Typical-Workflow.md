@@ -1,7 +1,6 @@
 ---
 title: Typical workflow
 parent: Native API
-permalink: /docs/native
 nav_order: 1
 ---
 # Native API: Typical Workflow
