@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Native Overview
+title: Native API
+parent: Overview
+has_children: true
 permalink: /docs/native
 nav_order: 2
 ---
