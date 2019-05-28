@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Buttons
-parent: Rest-APIs
-grand_parent: README.md
+title: Enrollment API
+parent: REST Overview
+grand_parent: Overview
 nav_order: 1
 ---
 

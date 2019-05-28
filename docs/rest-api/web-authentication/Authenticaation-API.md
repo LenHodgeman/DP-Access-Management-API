@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Buttons
+title: Authentication API
 parent: Rest-APIs
-nav_order: 1
+grand_parent: Overview
+nav_order: 2
 ---
 # Web Authentication API
