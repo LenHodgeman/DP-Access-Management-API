@@ -9,5 +9,5 @@ nav_order: 1
 # REST Overview
 
 
-[Enrollment API](Enrollment-API.md)  
+[Enrollment API](/docs/rest-api/web-enrollment/Enrollment-API.md)  
 [Authentication API](Authentication-API.md)
