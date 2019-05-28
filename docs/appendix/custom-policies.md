@@ -1,5 +1,5 @@
 ---
-parent: parent: Appendix Overview
+parent: Appendix Overview
 permalink: /docs/Appendix
 nav_order: 2
 ---
