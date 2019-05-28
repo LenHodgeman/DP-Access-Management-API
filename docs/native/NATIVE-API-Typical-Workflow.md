@@ -1,4 +1,5 @@
 ---
+title: Typical workflow
 parent: Native API
 permalink: /docs/native
 nav_order: 1
