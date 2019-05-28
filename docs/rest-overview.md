@@ -1,7 +1,6 @@
 ---
 layout: default
 title: REST API
-parent: Overview
 has_children: true
 permalink: /docs/rest-api
 has_toc: false
