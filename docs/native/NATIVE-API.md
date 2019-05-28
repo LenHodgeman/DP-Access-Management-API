@@ -1,5 +1,5 @@
 ---
-parent: Native Overview
+parent: Native API
 has_children: true
 permalink: /docs/native
 ---

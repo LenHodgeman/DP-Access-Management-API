@@ -1,5 +1,5 @@
 ---
-parent: Native Overview
+parent: Native API
 permalink: /docs/native
 nav_order: 2
 ---

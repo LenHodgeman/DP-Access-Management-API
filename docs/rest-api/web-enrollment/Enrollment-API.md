@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enrollment API
-parent: REST Overview
+parent: REST API
 nav_order: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Authentication API
-parent: REST Overview
+parent: REST API
 nav_order: 2
 ---
 # Web Authentication API
