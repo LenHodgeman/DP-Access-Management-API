@@ -10,4 +10,4 @@ nav_order: 3
 
 [Access Management Sample](samples/access-management.js/README.md)
 
-[Device Access Sample](../../samples/device-management.js/README.md)
+[Device Access Sample](../../samples/device-access.js/README.md)
