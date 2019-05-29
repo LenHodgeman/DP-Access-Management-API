@@ -12,4 +12,4 @@ nav_order: 3
 
 [Device Access Sample](javascript-samples/device-access/README.md)
 
-[Test linking to another repo](https://github.com/LenHodgeman/access-management.js/README.md)
+[Test linking to another repo](https://lenhodgeman.github.io/access-management.js/)
