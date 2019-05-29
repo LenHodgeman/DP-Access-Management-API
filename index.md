@@ -12,7 +12,7 @@ Version 3.1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[DRAFT 38]**
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[DRAFT 39]**
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
 
