@@ -12,14 +12,14 @@ Version 3.1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[DRAFT 41]**
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[DRAFT 42]**
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
 
 Sample programs are also provided, which illustrate the features available through the included APIs.
 This developer guide is divided into three major sections, not counting this chapter, that align with the specific uses of the various API subsets for supported features and platforms. These sections are
 
-<table style="width:70%;margin-left:auto;margin-right:auto;">
+<table style="width:90%;margin-left:auto;margin-right:auto;">
   <tr>
     <th style="width:100px">Section</th>
     <th>Purpose</th>

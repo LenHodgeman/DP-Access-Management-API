@@ -30,5 +30,5 @@ The DigitalPersona REST APIs consist of the following sets of exposed features.
 </table>
 
 
-[Enrollment API](../web-authentication/Enrollment-API.md)  
+[Enrollment API](Enrollment-API.md)  
 [Authentication API](Authentication-API.md)
