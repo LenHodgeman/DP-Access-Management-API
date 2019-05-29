@@ -8,6 +8,6 @@ nav_order: 3
 ---
 # Javscript Samples
 
-[Access Management Sample](samples/access-management/README.md)
+[Access Management Sample](javascript-samples/access-management/README.md)
 
-[Device Access Sample](../../samples/device-access.js/README.md)
+[Device Access Sample](javascript-samples/device-access/README.md)
