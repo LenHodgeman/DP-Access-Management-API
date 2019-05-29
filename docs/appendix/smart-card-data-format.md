@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Smart Card Data Format
 parent: Appendix
 nav_order: 3
 ---
