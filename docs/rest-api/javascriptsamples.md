@@ -8,8 +8,6 @@ nav_order: 3
 ---
 # Javscript Samples
 
-[Access Management Sample](javascript-samples/access-management/README.md)
+[Access Management Sample](https://lenhodgeman.github.io/access-management.js/)
 
 [Device Access Sample](javascript-samples/device-access/README.md)
-
-[Test linking to another repo](https://lenhodgeman.github.io/access-management.js/)
