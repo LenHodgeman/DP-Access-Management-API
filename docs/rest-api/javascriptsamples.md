@@ -12,4 +12,6 @@ nav_order: 3
 
 [Access Management Sample2](dp-tfs:8080/tfs/DevCollection/Dev/_git/access-management.js?_a=preview&path=%2FREADME.md&version=GBmaster)
 
-[Device Access Sample](javascript-samples/device-access/README.md)
+[Device Access Sample](https://lenhodgeman.github.io/device-access/README.md)
+
+[Access Management dp-tfs link](dp-tfs:8080/tfs/DevCollection/Dev/_git/access-management.js?_a=preview&path=%2FREADME.md&version=GBmaster)
