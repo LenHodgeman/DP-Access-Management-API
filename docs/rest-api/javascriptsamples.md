@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Javscript Samples
-parent: REST API
+parent: REST APIs
 has_children: true
 has_toc: false
 nav_order: 3
