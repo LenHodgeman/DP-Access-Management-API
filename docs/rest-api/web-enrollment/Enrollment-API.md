@@ -14,28 +14,5 @@ The DigitalPersona Web Enrollment Services (WES) API allows you to add enrollmen
 - Enrollment, unenrollment and re-enrollment of DigitalPersona credentials*  
 - Capturing and saving additional user biographic information such as user surname, date of birth, email address, etc.  
 
-This version of the DigitalPersona WES API supports the following DigitalPersona credentials:  
-
-- Password
-- Fingerprint
-- PIN
-- Proximity Cards
-- Live Questions
-
-Support for web-based management of additional credentials such as Smart Card and Bluetooth devices is planned, but these additional credentials are only supported locally at this time.  
-
-The API uses the Microsoft Web Server (Internet Information Services (IIS)) as a hosting environment and Microsoft WCF as a framework for the building environment.   
-
-Note: Use of this API requires previous installation and configuration of the DigitalPersona Web Management Components. For details, see the DigitalPersona Administrator Guide.
-
-## Target Audience
-This guide is for developers who have a working knowledge of the C++ programming language. In addition, readers must have an understanding of the DigitalPersona product and its authentication terminology and concepts.
-
-### See also
-[Web Enrollment methods](web-enrollment.md)  
-[Web Enrollment Credentials Data Format](web-enrollment-credentials-data- format.md)  
-[Web Enrollment sample application](web-enrollment-sample.md)
-
-
-
-[Sample](index.md)
+The actual API and accompanying documentation are in a separate GIT repo.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Visit Repo](https://github.com/LenHodgeman/web-enrollment-api){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Documentation](https://github.com/LenHodgeman/web-enrollment-api){: .btn }
