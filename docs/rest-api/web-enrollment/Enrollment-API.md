@@ -2,7 +2,7 @@
 layout: default
 title: Web Enrollment API
 parent: REST APIs
-has_children: true
+has_toc: false
 nav_order: 3
 ---
 
