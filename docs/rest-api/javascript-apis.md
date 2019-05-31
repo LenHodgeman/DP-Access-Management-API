@@ -2,7 +2,6 @@
 layout: default
 title: JavaScript APIs
 parent: REST APIs
-has_children: true
 has_toc: false
 nav_order: 1
 ---

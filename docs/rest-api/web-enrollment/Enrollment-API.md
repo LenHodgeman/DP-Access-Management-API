@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Enrollment API
+title: Web Enrollment API
 parent: REST APIs
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 
 # Web Enrollment Services API
