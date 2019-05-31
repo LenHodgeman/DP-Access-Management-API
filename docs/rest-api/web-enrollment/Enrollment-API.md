@@ -15,5 +15,5 @@ The DigitalPersona Web Enrollment Services (WES) API allows you to add enrollmen
 - Capturing and saving additional user biographic information such as user surname, date of birth, email address, etc.  
 
 The actual API and accompanying documentation are in a separate GIT repo.  
-<br/>  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Visit Repo](https://github.com/LenHodgeman/web-enrollment-api){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Documentation](https://github.com/LenHodgeman/web-enrollment-api){: .btn }
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Visit Repo](https://github.com/LenHodgeman/web-enrollment-api){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Documentation](https://lenhodgeman.github.io/web-enrollment-api/){: .btn }
