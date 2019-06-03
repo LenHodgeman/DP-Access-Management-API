@@ -106,3 +106,5 @@ The DigitalPersona Access Management API is compatible with the following Digita
 * DigitalPersona AD or LDS Kiosk 2.1 or later.
 
 * DigitalPersona AD or LDS AD Server, version 2.1 or later.
+
+NOTE (TO BE REMOVED BEFORE PUBLISHING): https://github.com/travs/markdown-pdf

@@ -5,17 +5,17 @@ parent: REST APIs
 has_toc: false
 nav_order: 1
 ---
-# JavaScript APIs
 
-[Access Management API](https://lenhodgeman.github.io/access-management.js/)
+# JavaScript
 
-[Device Access API](https://lenhodgeman.github.io/device-access.js)
+The DigitalPersona Access Management API includes two JavaScript APIs and related JavaScript sample apps. Each of the APIs and sample apps are separate repositories at the following locations.
 
-# JavaScript Samples  
+## JavaScript APIs
 
-[Access Management Sample]()
+- [Access Management API](https://lenhodgeman.github.io/access-management.js/)  
+- [Device Access API](https://lenhodgeman.github.io/device-access.js)  
 
-[Device Access Sample]()
+## JavaScript Samples  
 
-
-[Access Management dp-tfs link: Doesn't work](dp-tfs:8080/tfs/DevCollection/Dev/_git/access-management.js?_a=preview&path=%2FREADME.md&version=GBmaster)
+- [Access Management Sample]()  
+- [Device Access Sample]()  
