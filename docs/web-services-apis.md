@@ -1,12 +1,18 @@
 ---
 layout: default
-title: REST APIs
+title: Web Services APIs
 has_toc: false
-nav_order: 1
+nav_order: 3
 ---
-# REST Overview
 
-The DigitalPersona REST APIs consist of the following sets of exposed features.
+# Web Services APIs
+
+The DigitalPersona Access Management API includes two Web Services APIs and related  sample apps. Each of the APIs and sample apps are separate repositories at the following locations.
+
+## Web Services APIs
+
+- [Web Enrollment API](https://lenhodgeman.github.io/web-enrollment-api/)  
+- [Web Authentication API](https://lenhodgeman.github.io/device-access.js)
 
 <table style="width:100%;margin-left:auto;margin-right:auto;">
   <tr>
@@ -25,8 +31,9 @@ The DigitalPersona REST APIs consist of the following sets of exposed features.
     DigitalPersona Web Authentication Policy Service (WAPS)<br>
     DigitalPersona Web Authentication Service (DP WAS)</td>
   </tr>
-</table>
+</table>  
 
+## Web Services Samples  
 
-[Enrollment API](Enrollment-API.md)  
-[Authentication API](Authentication-API.md)
+- [Access Management Sample]()  
+- [Device Access Sample]()  
