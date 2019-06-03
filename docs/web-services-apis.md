@@ -21,7 +21,7 @@ The DigitalPersona Access Management API includes two Web Services APIs and rela
   </tr>
   <tr>
     <td valign="top" >Web Enrollment API</td>
-    <td>Allows you to add enrollment and management of DigitalPersona credentials to your web-based application..</td>
+    <td>Allows you to add enrollment and management of DigitalPersona credentials to your web-based application.</td>
   </tr>
   <tr>
     <td  valign="top">Web Authentication API</td>
