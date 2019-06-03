@@ -3,7 +3,7 @@ layout: default
 title: JavaScript APIs
 parent: REST APIs
 has_toc: false
-nav_order: 1
+nav_order: 2
 ---
 
 # JavaScript
