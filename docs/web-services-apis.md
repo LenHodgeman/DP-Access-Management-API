@@ -11,20 +11,17 @@ The DigitalPersona Access Management API includes two Web Services APIs and rela
 
 ## Web Services APIs
 
-- [Web Enrollment API](https://lenhodgeman.github.io/web-enrollment-api/)  
-- [Web Authentication API](https://lenhodgeman.github.io/device-access.js)
-
 <table style="width:100%;margin-left:auto;margin-right:auto;">
   <tr>
     <th style="width:181px">API</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td valign="top" >[Web Enrollment API](https://lenhodgeman.github.io/web-enrollment-api/) </td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/web-enrollment-api/">Web Enrollment API</A></td>
     <td>Allows you to add enrollment and management of DigitalPersona credentials to your web-based application.</td>
   </tr>
   <tr>
-    <td  valign="top">[Web Authentication API](https://lenhodgeman.github.io/device-access.js)</td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/device-access.js">Web Authentication API</A></td>
     <td> Provides these services used to set authentication policies and authenticate users.<BR><BR>
     DigitalPersona Web Authentication Service (AUTH)<br>
     DigitalPersona Web Secret Management Service (WSMS)<br>
@@ -33,26 +30,5 @@ The DigitalPersona Access Management API includes two Web Services APIs and rela
   </tr>
 </table>  
 
-## Web Services Samples  
-
-- [Access Management Sample]()  
-- [Device Access Sample]()  
-
-<table style="width:100%;margin-left:auto;margin-right:auto;">
-  <tr>
-    <th style="width:181px">API</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td valign="top" >[Access Management Sample]()</td>
-    <td>Allows you to add enrollment and management of DigitalPersona credentials to your web-based application.</td>
-  </tr>
-  <tr>
-    <td  valign="top">[Web Authentication API](https://lenhodgeman.github.io/device-access.js)</td>
-    <td> Provides these services used to set authentication policies and authenticate users.<BR><BR>
-    DigitalPersona Web Authentication Service (AUTH)<br>
-    DigitalPersona Web Secret Management Service (WSMS)<br>
-    DigitalPersona Web Authentication Policy Service (WAPS)<br>
-    DigitalPersona Web Authentication Service (DP WAS)</td>
-  </tr>
-</table>  
+## Web Services Sample  
+[Note: I think there is only the DPWebDemo.exe sample, which shows both authentication and enrollment.]

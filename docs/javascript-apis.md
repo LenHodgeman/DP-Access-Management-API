@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 2
 ---
 
-# JavaScript
+# JavaScript APIs and Samples
 
 The DigitalPersona Access Management API includes two JavaScript APIs and related JavaScript sample apps. Each of the APIs and sample apps are separate repositories at the following locations.
 
