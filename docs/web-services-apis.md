@@ -21,7 +21,7 @@ The DigitalPersona Access Management API includes two Web Services APIs and rela
     <td>Allows you to add enrollment and management of DigitalPersona credentials to your web-based application.</td>
   </tr>
   <tr>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/device-access.js">Web Authentication API</A></td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/web-authentication-api/">Web Authentication API</A></td>
     <td> Provides these services used to set authentication policies and authenticate users.<BR><BR>
     DigitalPersona Web Authentication Service (AUTH)<br>
     DigitalPersona Web Secret Management Service (WSMS)<br>
