@@ -4,17 +4,17 @@ title: Overview
 nav_order: 1
 ---
 ![](docs/assets/index-47bdbe20.png)  
-### DigitalPersona Access Management API  
-Version 3.1.1  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**[DRAFT A74]**
+# DigitalPersona Access Management API  
+Version 3.1.1  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**[DRAFT A75]**
 
 [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }
 
-# Overview
+## Overview
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
 
 Sample programs are also provided, which illustrate the features available through the included APIs.
-This developer guide is divided into three major sections, not counting this chapter, that align with the specific uses of the various API subsets for supported features and platforms. These sections are
+This documentation is divided into two major sections, that align with the specific uses of the various API subsets for supported features and platforms. These sections are
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
@@ -36,10 +36,10 @@ Through either the REST or Native APIs, you can enroll and authenticate DigitalP
 
 All of the authentication credentials provided in the DigitalPersona solution are supported through the corresponding APIs except for the Face credential (for web APIs) and the Bluetooth credential (web and Windows APIs).
 
-### Working environment
+## Working environment
 Use of the included APIs assumes that an appropriate DigitalPersona solution has been installed, configured and verified. Features exposed through the Native APIs can be used in a minimal DigitalPersona environment consisting of the DigitalPersona Workstation or DigitalPersona Kiosk and a single DigitalPersona AD or LDS Server. Use of the REST APIs requires the additional installation of the DigitalPersona Web Components package.
 
-### Target Audience
+## Target Audience
 Developers should have an understanding of the core components of the DigitalPersona solution and its terminology and concepts. They should also be knowledgeable in the specific target platform and the relevant development language.
 
 ## Additional Resources
@@ -62,6 +62,17 @@ You can refer to the additional resources described in this section to assist yo
 
 ## System Requirements
 ### Development system
+#### REST APIs
+In addition to the requirements listed above, the following are required for use of the Web AUTH and Web Enrollment APIs.
+
+* Windows Web Server (IIS)
+
+* DigitalPersona Web Management Components
+
+* An SSL certificate
+
+See the DigitalPersona Administrator and Client Guides for instructions on installing and configuring the above components.  
+
 #### Native API
 The recommended minimum software requirements needed to develop applications with the DigitalPersona Native API are:
 * Development workstation running Windows 7 or later and DigitalPersona Workstation or Kiosk.
@@ -72,17 +83,6 @@ DigitalPersona Server running Windows Server 2012 and DigitalPersona AD or LDS S
 * DigitalPersona Server running Windows Server 2012 and DigitalPersona AD or LDS Server.
 
 See the topic Supported DigitalPersona Products below for a complete list of compatible DigitalPersona clients and servers.
-
-#### REST APIs
-In addition to the requirements listed above, the following are required for use of the Web AUTH and Web Enrollment APIs.
-
-* Windows Web Server (IIS)
-
-* DigitalPersona Web Management Components
-
-* An SSL certificate
-
-See the DigitalPersona Administrator and Client Guides for instructions on installing and configuring the above components.
 
 ### Target system
 
@@ -104,4 +104,8 @@ The DigitalPersona Access Management API is compatible with the following Digita
 
 * DigitalPersona AD or LDS AD Server, version 2.1 or later.
 
-NOTE (TO BE REMOVED BEFORE PUBLISHING): https://github.com/travs/markdown-pdf
+NOTE (TO BE REMOVED BEFORE PUBLISHING)
+
+Possible tools and resources:  
+[Markdown->PDF Converter](https://github.com/travs/markdown-pdf)  
+[Customizing the Documentation theme](https://idratherbewriting.com/documentation-theme-jekyll/index.html)
