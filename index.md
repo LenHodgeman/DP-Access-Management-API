@@ -5,7 +5,7 @@ nav_order: 1
 ---  
 ![](docs/assets/HID-logo.png)  
 
- [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn } &nbsp;&nbsp;[DRAFT A94]  
+ [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn } &nbsp;&nbsp;[DRAFT A95]  
 ### Overview  
 
 
@@ -44,8 +44,8 @@ You can refer to the additional resources described in this section to assist yo
 
 <table style="width:100%;margin-left:auto;margin-right:auto;">
   <tr>
-    <th style="width:50%">Subject</th>
-    <th>Resource</th>
+    <th style="width:50%" ALIGN="left">Subject</th>
+    <th style="width:50%" ALIGN="left">Resource</th>
   </tr>
   <tr>
     <td valign="top" >Concepts, features, processes and terminology used in DigitalPersona solutions</td>
