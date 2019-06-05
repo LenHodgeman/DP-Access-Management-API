@@ -4,9 +4,7 @@ title: Overview
 nav_order: 1
 ---
 ![](docs/assets/HID-logo.png)  
-## DigitalPersona Access Management API  
-Version 3.1.1  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**[DRAFT A76]**
-
+**[DRAFT A78]**  
 [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }
 
 ### Overview
