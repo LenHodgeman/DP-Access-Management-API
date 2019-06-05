@@ -16,8 +16,8 @@ This documentation is divided into two major sections, that align with the speci
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
-    <th style="width:100px;ALIGN=right">Section</th>
-    <th style="width:100px;ALIGN=right">Purpose</th>
+    <th style="width:100px" ALIGN="left">Section</th>
+    <th style="width:100px" ALIGN="left">Purpose</th>
   </tr>
   <tr>
     <td valign="top" >REST APIs<BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">- JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-a.html">- Web Services APIs</A></td>
