@@ -7,12 +7,12 @@ nav_order: 1
 
  [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }  
 ## Overview  
-[DRAFT A90]  
+[DRAFT A91]  
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
 
 Sample programs are also provided, which illustrate the features available through the included APIs.
-This documentation is divided into two major sections, that align with the specific uses of the various API subsets for supported features and platforms. These sections are
+This documentation is divided into two major sections that align with the specific uses of the various API subsets for supported features and platforms. These sections are
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
@@ -20,7 +20,7 @@ This documentation is divided into two major sections, that align with the speci
     <th style="width:100px" ALIGN="left">Purpose</th>
   </tr>
   <tr>
-    <td valign="top" >REST APIs<BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">- JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-a.html">- Web Services APIs</A></td>
+    <td valign="top" >REST APIs<BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">- JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html">- Web Services APIs</A></td>
     <td>Used for implementing credential enrollment and authentication for web-based applications.</td>
   </tr>
   <tr>
