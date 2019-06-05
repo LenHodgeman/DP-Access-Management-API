@@ -4,12 +4,11 @@ title: Web Services APIs
 has_toc: false
 nav_order: 3
 ---
-
-# Web Services APIs
+[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [JavaScript APIs and Samples](https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-api.html)   
+![](assets/HID-logo.png)  
+## Web Services APIs
 
 The DigitalPersona Access Management API includes two Web Services APIs and related  sample apps. Each of the APIs and sample apps are available as separate repositories from the following locations.
-
-## Web Services APIs
 
 <table style="width:100%;margin-left:auto;margin-right:auto;">
   <tr>
@@ -30,5 +29,5 @@ The DigitalPersona Access Management API includes two Web Services APIs and rela
   </tr>
 </table>  
 
-## Web Services Sample  
+### Web Services Sample  
 [Note: I think there is only the DPWebDemo.exe sample, which shows both authentication and enrollment.]

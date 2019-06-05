@@ -3,8 +3,10 @@ layout: default
 title: Native API
 has_toc: false
 nav_order: 4
----
-# Native API
+---  
+[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html)   
+![](assets/HID-logo.png)  
+## Native API
 
 The DigitalPersona Native API (previously DP AUTH API) is a subset of the DigitalPersona Access Management API that provides native authentication and identification on the Windows Platform. User enrollment must be handled separately through a DigitalPersona client such as the DigitalPersona Workstation or Kiosk, Attended Enrollment or Web Enrollment.
 
@@ -43,13 +45,11 @@ The API can be used for the following:
 The DigitalPersona AUTH API observes all of the settings in the DigitalPersona software regarding its communications with the server, supported credentials, policies, etc.
 
 For advanced users, your application can require additional credentials (i.e., you can create a custom authentication policy), but if secret release is required, your application’s must meet the requirements of the policy set by the DigitalPersona administrator.
-## Target Audience
+### Target Audience
 This API is for developers who have a working knowledge of the C++ programming language. In addition, readers should have an understanding of the DigitalPersona product and its authentication terminology and concepts.
 
-## Related Topics
-[Typical Workflow](Native-API-Typical-Workflow)  
-[Native API functions](Native-API-Native-API-functions)
-
-Chapter 12, Windows API, describes the typical workflow for authentication on the desktop and describes the functions in the API.
-Chapter 13, Windows API Sample Application, describes the features of the sample application.
-Chapter 14, Custom Authentication Policies, describes how authentication policies are stored, how to extend an authentication policy and how to define a new authentication policy.
+### Related Topics
+[Typical Workflow]()  
+[Native API functions]()
+[Windows Sample Application]()
+[Custom Authentication Policies]()

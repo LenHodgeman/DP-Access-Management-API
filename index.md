@@ -2,10 +2,10 @@
 layout: default
 title: Overview
 nav_order: 1
----
+---  
+**[DRAFT A79]**  
 ![](docs/assets/HID-logo.png)  
-**[DRAFT A78]**  
-[Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }
+ [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }
 
 ### Overview
 
