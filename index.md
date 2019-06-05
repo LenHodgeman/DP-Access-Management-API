@@ -104,6 +104,6 @@ The DigitalPersona Access Management API is compatible with the following Digita
 
 ## See also:  
 
-[JavScript APIs]()  
-[Web Services APIs]()    
-[Native API]()
+[JavScript APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html)  
+[Web Services APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html)    
+[Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html)
