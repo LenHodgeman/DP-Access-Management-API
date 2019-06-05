@@ -51,6 +51,6 @@ This API is for developers who have a working knowledge of the C++ programming l
 
 ### Related Topics
 [Typical Workflow]()  
-[Native API functions]()
-[Windows Sample Application]()
+[Native API functions]()  
+[Windows Sample Application]()  
 [Custom Authentication Policies]()

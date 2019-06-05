@@ -7,7 +7,7 @@ nav_order: 1
 
  [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }  
 ## Overview  
-[DRAFT A84]  
+[DRAFT A86]  
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
 
@@ -20,7 +20,7 @@ This documentation is divided into two major sections, that align with the speci
     <th>Purpose</th>
   </tr>
   <tr>
-    <td valign="top" >REST APIs</td>
+    <td valign="top" ><REST APIs<BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">- JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-a.html">- Web Services APIs</A></td>
     <td>Used for implementing credential enrollment and authentication for web-based applications.</td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ DigitalPersona Server running Windows Server 2012 and DigitalPersona AD or LDS S
 
 * DigitalPersona Server running Windows Server 2012 and DigitalPersona AD or LDS Server.
 
-See the topic Supported DigitalPersona Products below for a complete list of compatible DigitalPersona clients and servers.
+See the topic *Supported DigitalPersona Products* below for a complete list of compatible DigitalPersona clients and servers.
 
 ### Target system
 
@@ -102,8 +102,8 @@ The DigitalPersona Access Management API is compatible with the following Digita
 
 * DigitalPersona AD or LDS AD Server, version 2.1 or later.
 
-NOTE (TO BE REMOVED BEFORE PUBLISHING)
+## See also:  
 
-Possible tools and resources:  
-[Markdown->PDF Converter](https://github.com/travs/markdown-pdf)  
-[Customizing the Documentation theme](https://idratherbewriting.com/documentation-theme-jekyll/index.html)
+[JavScript APIs]()
+[Web Services APIs]  
+[Native API]()

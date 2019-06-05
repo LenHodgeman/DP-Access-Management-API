@@ -4,7 +4,7 @@ title: Web Services APIs
 has_toc: false
 nav_order: 3
 ---
-[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [JavaScript APIs and Samples](https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-api.html)  
+[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Web Services APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html)  
 
 ![](assets/HID-logo.png)  
 ## Web Services APIs
