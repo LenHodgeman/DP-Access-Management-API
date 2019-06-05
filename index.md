@@ -7,7 +7,7 @@ nav_order: 1
 
  [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }  
 ## Overview  
-[DRAFT A87]  
+[DRAFT A88]  
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
 
@@ -24,8 +24,8 @@ This documentation is divided into two major sections, that align with the speci
     <td>Used for implementing credential enrollment and authentication for web-based applications.</td>
   </tr>
   <tr>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html">Native API</td>
-    <td> Used for implementing user authentication for Windows applications. Credential enrollment must be performed using a DigitalPersona client or the Attended Enrollment or Web Enrollment application.</td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html">Native API</A></td>
+    <td>Used for implementing user authentication for Windows applications. Credential enrollment must be performed using a DigitalPersona client or the Attended Enrollment or Web Enrollment application.</td>
   </tr>
 </table>
 
