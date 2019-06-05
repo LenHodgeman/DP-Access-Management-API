@@ -13,8 +13,8 @@ The DigitalPersona Access Management API includes two JavaScript APIs and relate
 
 ### JavaScript APIs
 
-- [Access Management API](https://lenhodgeman.github.io/access-management.js/)  
-- [Device Access API](https://lenhodgeman.github.io/device-access.js)  
+- [JavaScript Access Management API](https://lenhodgeman.github.io/access-management.js/)  
+- [JavaScript Device Access API](https://lenhodgeman.github.io/device-access.js)  
 
 ### JavaScript Samples  
 
