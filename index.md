@@ -5,8 +5,8 @@ nav_order: 1
 ---  
 ![](docs/assets/HID-logo.png)  
 
- [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn } &nbsp;&nbsp;[DRAFT A93]  
-## Overview  
+ [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn } &nbsp;&nbsp;[DRAFT A94]  
+### Overview  
 
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
@@ -29,18 +29,17 @@ This documentation is divided into two major sections that align with the specif
   </tr>
 </table>
 
-
 Through either the REST or Native APIs, you can enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or custom policies defined by your application, and subsequently release their users’ protected data (secrets).
 
 All of the authentication credentials provided in the DigitalPersona solution are supported through the corresponding APIs except for the Face credential (for web APIs) and the Bluetooth credential (web and Windows APIs).
 
-## Working environment
+### Working environment
 Use of the included APIs assumes that an appropriate DigitalPersona solution has been installed, configured and verified. Features exposed through the Native APIs can be used in a minimal DigitalPersona environment consisting of the DigitalPersona Workstation or DigitalPersona Kiosk and a single DigitalPersona AD or LDS Server. Use of the REST APIs requires the additional installation of the DigitalPersona Web Components package.
 
-## Target Audience
+### Target Audience
 Developers should have an understanding of the core components of the DigitalPersona solution and its terminology and concepts. They should also be knowledgeable in the specific target platform and the relevant development language.
 
-## Additional Resources
+### Additional Resources
 You can refer to the additional resources described in this section to assist you in using the API.  
 
 <table style="width:100%;margin-left:auto;margin-right:auto;">
@@ -58,9 +57,9 @@ You can refer to the additional resources described in this section to assist yo
   </tr>
 </table>
 
-## System Requirements
-### Development system
-#### REST APIs
+### System Requirements
+#### Development system
+##### REST APIs
 In addition to the requirements listed above, the following are required for use of the Web AUTH and Web Enrollment APIs.
 
 * Windows Web Server (IIS)
@@ -71,7 +70,7 @@ In addition to the requirements listed above, the following are required for use
 
 See the DigitalPersona Administrator and Client Guides for instructions on installing and configuring the above components.  
 
-#### Native API
+##### Native API
 The recommended minimum software requirements needed to develop applications with the DigitalPersona Native API are:
 * Development workstation running Windows 7 or later and DigitalPersona Workstation or Kiosk.
 
@@ -82,7 +81,7 @@ DigitalPersona Server running Windows Server 2012 and DigitalPersona AD or LDS S
 
 See the topic *Supported DigitalPersona Products* below for a complete list of compatible DigitalPersona clients and servers.
 
-### Target system
+#### Target system
 
 Recommended minimum software requirements are the same as for the development system with the following exceptions:
 
@@ -92,7 +91,7 @@ Recommended minimum software requirements are the same as for the development sy
 
 * If the logon and Password Manager features are not needed, the DigitalPersona client can be installed without these applications. This installs the DigitalPersona Access Management API runtime only.
 
-## Supported DigitalPersona Products
+### Supported DigitalPersona Products
 
 The DigitalPersona Access Management API is compatible with the following DigitalPersona products:
 
@@ -102,7 +101,7 @@ The DigitalPersona Access Management API is compatible with the following Digita
 
 * DigitalPersona AD or LDS AD Server, version 2.1 or later.
 
-## See also:  
+### See also:  
 
 [JavScript APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html)  
 [Web Services APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html)    
