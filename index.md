@@ -20,7 +20,7 @@ This documentation is divided into two major sections that align with the specif
     <th style="width:100px" ALIGN="left">Purpose</th>
   </tr>
   <tr>
-    <td valign="top" ><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">- JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html">- Web Services APIs</A></td>
+    <td valign="top" ><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html">Web Services APIs</A></td>
     <td>REST APIs used for implementing credential enrollment and authentication for web-based applications.</td>
   </tr>
   <tr>
