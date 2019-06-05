@@ -20,11 +20,11 @@ This documentation is divided into two major sections, that align with the speci
     <th>Purpose</th>
   </tr>
   <tr>
-    <td valign="top" ><REST APIs<BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">- JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-a.html">- Web Services APIs</A></td>
+    <td valign="top" >REST APIs<BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">- JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-a.html">- Web Services APIs</A></td>
     <td>Used for implementing credential enrollment and authentication for web-based applications.</td>
   </tr>
   <tr>
-    <td  valign="top">Native API</td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html">Native API</td>
     <td> Used for implementing user authentication for Windows applications. Credential enrollment must be performed using a DigitalPersona client or the Attended Enrollment or Web Enrollment application.</td>
   </tr>
 </table>
