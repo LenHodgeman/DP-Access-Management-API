@@ -4,7 +4,7 @@ title: JavaScript APIs
 has_toc: false
 nav_order: 2
 ---
-![](docs/assets/HID-logo.png)  
+![](assets/HID-logo.png)  
 [DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [JavaScript APIs and Samples /](https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html)  
 # JavaScript APIs and Samples
 
