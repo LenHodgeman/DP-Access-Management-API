@@ -3,11 +3,12 @@ layout: default
 title: Overview
 nav_order: 1
 ---  
-**[DRAFT A79]**  
 ![](docs/assets/HID-logo.png)  
+
  [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }
 
-### Overview
+### Overview  
+[DRAFT A80]  
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
 
