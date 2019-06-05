@@ -50,7 +50,7 @@ For advanced users, your application can require additional credentials (i.e., y
 This API is for developers who have a working knowledge of the C++ programming language. In addition, readers should have an understanding of the DigitalPersona product and its authentication terminology and concepts.
 
 ### Related Topics
-[Typical Workflow]()  
+[Typical Workflow](https://lenhodgeman.github.io/native-api/docs/typical-workflow.html)  
 [Native API functions]()  
 [Windows Sample Application]()  
 [Custom Authentication Policies]()
