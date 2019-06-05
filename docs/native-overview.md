@@ -4,8 +4,7 @@ title: Native API
 has_toc: false
 nav_order: 4
 ---  
-[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html) <BR><BR>  
-  
+[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html)<BR><BR>  
 ![](assets/HID-logo.png)  
 
 ## Native API
