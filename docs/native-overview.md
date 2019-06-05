@@ -4,9 +4,9 @@ title: Native API
 has_toc: false
 nav_order: 4
 ---  
-[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html)   
+[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html) <BR><BR>  
 ![](assets/HID-logo.png)  
-  
+
 ## Native API
 
 The DigitalPersona Native API (previously DP AUTH API) is a subset of the DigitalPersona Access Management API that provides native authentication and identification on the Windows Platform. User enrollment must be handled separately through a DigitalPersona client such as the DigitalPersona Workstation or Kiosk, Attended Enrollment or Web Enrollment.
