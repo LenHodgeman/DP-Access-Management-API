@@ -5,12 +5,12 @@ nav_order: 1
 ---  
 ![](docs/assets/HID-logo.png)  
 
- [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn } &nbsp;&nbsp;[DRAFT A95]  
+ [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn } &nbsp;&nbsp;[DRAFT A96]  
 ### Overview  
 
-DigitalPersona Access Management API overview  
+DigitalPersona Access Management API overview.pdf  
 
-1  
+1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8  
 
 
 
