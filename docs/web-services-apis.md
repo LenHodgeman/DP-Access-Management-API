@@ -7,7 +7,7 @@ nav_order: 3
 [DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Web Services APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html)  
 
 ![](assets/HID-logo.png)  
-## Web Services APIs
+### Web Services APIs
 
 The DigitalPersona Access Management API includes two Web Services APIs and related  sample apps. Each of the APIs and sample apps are available as separate repositories from the following locations.
 
