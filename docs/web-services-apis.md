@@ -31,4 +31,7 @@ The DigitalPersona Access Management API includes two Web Services APIs and rela
 </table>  
 
 ### Web Services Sample  
-[Note: I think there is only the DPWebDemo.exe sample, which shows both authentication and enrollment.]
+
+Vist the Web Services Sample repo to download the DPWebDemo application and all required files for building your own application.
+
+[Web Services Sample application](https://github.com/LenHodgeman/web-services-sample)
