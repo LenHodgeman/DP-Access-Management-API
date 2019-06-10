@@ -3,10 +3,10 @@
 layout: default
 title: Redirect test
 has_toc: false
-nav_order: 3
+nav_order: 7
 ---
-<!DOCTYPE html> 
+
 <meta charset="utf-8">
-<title>Redirecting to https://example.com/</title>
-<meta http-equiv="refresh" content="0; URL=https://example.com/">
+<title>Redirecting to https://lenhodgeman.github.io/digitalpersona-core/index.html">digitalpersona-core</title>
+<meta http-equiv="refresh" content="0; URL=https://lenhodgeman.github.io/digitalpersona-core/index.html">digitalpersona-core">
 <link rel="canonical" href="https://example.com/">
