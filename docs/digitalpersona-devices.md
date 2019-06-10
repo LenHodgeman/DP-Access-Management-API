@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DigitalPersona Devicces API
+title: Devices API
 has_toc: false
 nav_order: 5
 ---  

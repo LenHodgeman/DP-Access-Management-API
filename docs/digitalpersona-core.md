@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DigitalPersona Core
+title: Core Components
 has_toc: false
 nav_order: 1
 ---

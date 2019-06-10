@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DigitalPersona Authentication API
+title: Authentication API
 has_toc: false
 nav_order: 3
 ---

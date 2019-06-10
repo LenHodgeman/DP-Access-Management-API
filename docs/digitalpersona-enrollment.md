@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DigitalPersona Enrollment API
+title: Enrollment API
 has_toc: false
 nav_order: 4
 ---
