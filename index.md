@@ -5,7 +5,7 @@ nav_order: 1
 ---  
 ![](docs/assets/HID-logo.png)  
 
-[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A113]  
+[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A114]  
 ### Overview  
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
@@ -19,7 +19,7 @@ This documentation is divided into several sections that align with the specific
     <th style="width:100px" ALIGN="left">Purpose</th>
   </tr>
   <tr>
-    <td valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/">digitalpersona-core</A></td>
+    <td valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
     <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
   <tr>
