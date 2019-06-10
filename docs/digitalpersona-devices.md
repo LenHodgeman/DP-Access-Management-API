@@ -2,7 +2,7 @@
 layout: default
 title: Devices API
 has_toc: false
-nav_order: 5
+nav_order: 6
 ---  
 [DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html)  
 

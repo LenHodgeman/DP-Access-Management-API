@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Native API
+title: Web Access Services
 has_toc: false
-nav_order: 2
+nav_order: 3
 ---  
 [DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html)  
 

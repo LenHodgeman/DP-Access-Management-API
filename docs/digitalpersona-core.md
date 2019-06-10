@@ -2,7 +2,7 @@
 layout: default
 title: Core Components
 has_toc: false
-nav_order: 1
+nav_order: 2
 ---
 [DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [JavaScript APIs and Samples](https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html)  
 
