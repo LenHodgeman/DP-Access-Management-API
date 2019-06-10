@@ -5,13 +5,13 @@ nav_order: 1
 ---  
 ![](docs/assets/HID-logo.png)  
 
-[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A111]  
+[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A112]  
 ### Overview  
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
 
 Sample programs are also provided, which illustrate the features available through the included APIs.
-This documentation is divided into two major sections that align with the specific uses of the various API subsets for supported features and platforms. These sections are
+This documentation is divided into several sections that align with the specific uses of the various components, APIs and wrappers available. These sections are
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
@@ -19,12 +19,24 @@ This documentation is divided into two major sections that align with the specif
     <th style="width:100px" ALIGN="left">Purpose</th>
   </tr>
   <tr>
-    <td valign="top" ><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html">JavaScript APIs</A><BR><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html">Web Services APIs</A></td>
-    <td>REST APIs used for implementing credential enrollment and authentication for web-based applications.</td>
+    <td valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/">digitalpersona-core</A></td>
+    <td>Core classes and functions shared by all APIs.</td>
   </tr>
   <tr>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html">Native API</A></td>
-    <td>Used for implementing user authentication for Windows applications. Credential enrollment must be performed using a DigitalPersona client or the Attended Enrollment or Web Enrollment application.</td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-services">digitalpersona-services</A></td>
+    <td>JS wrappers for Web Access services, shared by authentication and enrollment APIs</td>
+  </tr>
+  <tr>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication">digitalpersona-authentication</A></td>
+    <td>Authentication API</td>
+  </tr>
+  <tr>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-enrollment">digitalpersona-enrollment</A></td>
+    <td>Enrollment API</td>
+  </tr>
+  <tr>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-devices">digitalpersona-devices</A></td>
+    <td>Device API</td>
   </tr>
 </table>
 
