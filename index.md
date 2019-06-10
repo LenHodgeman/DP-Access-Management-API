@@ -5,7 +5,7 @@ nav_order: 1
 ---  
 ![](docs/assets/HID-logo.png)  
 
-[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A117]  
+[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A118]  
 ### Overview  
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
@@ -27,13 +27,14 @@ This documentation is divided into several sections that align with the specific
     <td>JS wrappers for the Web Access services which are shared by the authentication and enrollment APIs</td>
   </tr>
   <tr>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
-    <td>API enabling credential enrollment</td>
-  </tr>
-  <tr>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
     <td>API enabling credential authentication</td>
   </tr>
+  <tr>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
+    <td>API enabling credential enrollment</td>
+  </tr>
+
   <tr>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-devices/index.html">digitalpersona-devices</A></td>
     <td>API providing access to devices supported by the DigitalPersona Access Mangement API.</td>
