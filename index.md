@@ -5,7 +5,7 @@ nav_order: 1
 ---  
 ![](docs/assets/HID-logo.png)  
 
-[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A112]  
+[Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A113]  
 ### Overview  
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
@@ -20,27 +20,27 @@ This documentation is divided into several sections that align with the specific
   </tr>
   <tr>
     <td valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/">digitalpersona-core</A></td>
-    <td>Core classes and functions shared by all APIs.</td>
+    <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
   <tr>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-services">digitalpersona-services</A></td>
-    <td>JS wrappers for Web Access services, shared by authentication and enrollment APIs</td>
-  </tr>
-  <tr>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication">digitalpersona-authentication</A></td>
-    <td>Authentication API</td>
+    <td>JS wrappers for the Web Access services which are shared by the authentication and enrollment APIs</td>
   </tr>
   <tr>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-enrollment">digitalpersona-enrollment</A></td>
-    <td>Enrollment API</td>
+    <td>API enabling credential enrollment</td>
+  </tr>
+  <tr>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication">digitalpersona-authentication</A></td>
+    <td>API enabling credential authentication</td>
   </tr>
   <tr>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-devices">digitalpersona-devices</A></td>
-    <td>Device API</td>
+    <td>API providing access to devices supported by the DigitalPersona Access Mangement API.</td>
   </tr>
 </table>
 
-Through either the REST or Native APIs, you can enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or custom policies defined by your application, and subsequently release their users’ protected data (secrets).
+By using the Authentication or Enrollment APIs directly, or through the JavaScript wrappers, you can enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or through custom policies defined by your application, and subsequently release their users’ protected data (secrets).
 
 All of the authentication credentials provided in the DigitalPersona solution are supported through the corresponding APIs except for the Face credential (for web APIs) and the Bluetooth credential (web and Windows APIs).
 
@@ -61,10 +61,6 @@ You can refer to the additional resources described in this section to assist yo
   <tr>
     <td valign="top" >Concepts, features, processes and terminology used in DigitalPersona solutions</td>
     <td valign="top">DigitalPersona AD and LDS Administrator Guides, Client Guide and supporting documentation is available at: <A HREF="https://www.crossmatch.com/company/support/documentation">https://www.crossmatch.com/company/support/documentation </A></td>
-  </tr>
-  <tr>
-    <td valign="top">Concepts, features, processes and terminology used in DigitalPersona solutions</td>
-    <td valign="top">DigitalPersona AD and LDS Administrator Guides, Client Guide and supporting documentation is available at: <A HREF="https://www.crossmatch.com/company/support/documentation">https://www.crossmatch.com/company/support/documentation</A></td>
   </tr>
 </table>
 
@@ -111,9 +107,3 @@ The DigitalPersona Access Management API is compatible with the following Digita
 * DigitalPersona AD or LDS Kiosk 2.1 or later.
 
 * DigitalPersona AD or LDS AD Server, version 2.1 or later.
-
-### See also:  
-
-[JavScript APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html)  
-[Web Services APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html)    
-[Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html)
