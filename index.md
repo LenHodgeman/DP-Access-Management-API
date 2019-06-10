@@ -35,7 +35,7 @@ This documentation is divided into several sections that align with the specific
     <td>API enabling credential authentication</td>
   </tr>
   <tr>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-devices/index.html">digitalpersona-devices</A></td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-devices/index.html/index.html">digitalpersona-devices</A></td>
     <td>API providing access to devices supported by the DigitalPersona Access Mangement API.</td>
   </tr>
 </table>
