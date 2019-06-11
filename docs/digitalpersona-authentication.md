@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 4
 ---
 
-[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/)  
+[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Authentication API  
 
 ![](assets/HID-logo.png)  
 

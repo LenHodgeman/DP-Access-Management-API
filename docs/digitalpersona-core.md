@@ -2,9 +2,10 @@
 layout: default
 title: Core Components
 has_toc: false
-nav_order: 2
+nav_order: 2  
 ---
-[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/)  
+
+[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core components  
 
 ![](assets/HID-logo.png)  
 
