@@ -15,6 +15,10 @@ The DigitalPersona Authentication API is used to implement authentication of sup
 
 [Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
 
-To view the digitalpersona-authentication repo, click the following link.
+To view the digitalpersona-authentication GitHub Pages documentation, click the following link.
 
 [Digitalpersona Authentication API Repo](https://lenhodgeman.github.io/digitalpersona-authentication/)
+
+To view the digitalpersona-authentication Repo,  click this  link.
+
+[Digitalpersona Core Components Repo](https://github.com/LenHodgeman/digitalpersona-authentication/)

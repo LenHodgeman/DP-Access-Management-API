@@ -15,6 +15,10 @@ The DigitalPersona Web Access Services provide JavaScript wrappers for Web Acces
 
 [Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
 
-To view the digitalpersona-core repo, click the following link.
+To view the digitalpersona-services GitHub Pages documentation, click the following link.
 
 [Digitalpersona Web Access Services Repo](https://lenhodgeman.github.io/digitalpersona-services/)
+
+To view the digitalpersona-services Repo, click this link.
+
+[Digitalpersona Enrollment API Repo](https://github.com/LenHodgeman/digitalpersona-services/)
