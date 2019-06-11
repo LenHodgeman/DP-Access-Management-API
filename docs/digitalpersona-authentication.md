@@ -9,4 +9,12 @@ nav_order: 4
 
 ![](assets/HID-logo.png)  
 
-[This page is a placeholder. The previous link will redirect to the index.md page of the digitalpersona-core repo.]
+### Authentication API  
+
+The DigitalPersona Authentication API is used to implement authentication of supported credentials in your web-based application.
+
+[Could use additional content, but not duplicating or overlapping the main content on the authentication repo.]
+
+To view the digitalpersona-authentication repo, click the following link.
+
+[Digitalpersona Authentication API Repo](https://lenhodgeman.github.io/digitalpersona-authentication/) 
