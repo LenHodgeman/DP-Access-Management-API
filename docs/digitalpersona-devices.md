@@ -13,7 +13,7 @@ nav_order: 6
 
 The DigitalPersona Devices API provides access to devices supported by the DigitalPersona Access Management API.
 
-[Could use additional content, but not duplicating or overlapping the main content on the authentication repo.]
+[Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
 
 To view the digitalpersona-devices repo, click the following link.
 

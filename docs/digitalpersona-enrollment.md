@@ -13,7 +13,7 @@ nav_order: 5
 
 The DigitalPersona Enrollment API enables enrollment of supported credentials within your web application.
 
-[Could use additional content, but not duplicating or overlapping the main content on the authentication repo.]
+[Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
 
 To view the digitalpersona-enrollment repo, click the following link.
 

@@ -13,7 +13,7 @@ nav_order: 3
 
 The DigitalPersona Web Access Services provide JavaScript wrappers for Web Access services which are shared by the authentication and enrollment APIs.
 
-[Could use additional content, but not duplicating or overlapping the main content on the authentication repo.]
+[Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
 
 To view the digitalpersona-core repo, click the following link.
 

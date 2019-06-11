@@ -13,7 +13,7 @@ nav_order: 4
 
 The DigitalPersona Authentication API is used to implement authentication of supported credentials in your web-based application.
 
-[Could use additional content, but not duplicating or overlapping the main content on the authentication repo.]
+[Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
 
 To view the digitalpersona-authentication repo, click the following link.
 

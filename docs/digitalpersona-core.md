@@ -13,7 +13,7 @@ nav_order: 2
 
 The DigitalPersona Core Components contains the core classes and functions shared by the DigitalPersona Access Management APIs.
 
-[Could use additional content, but not duplicating or overlapping the main content on the authentication repo.]
+[Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
 
 To view the digitalpersona-core repo, click the following link.
 
