@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 5
 ---
 
-[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Web Services APIs  
+[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Enrollment API  
 
 ![](assets/HID-logo.png)  
 
@@ -17,4 +17,4 @@ The DigitalPersona Enrollment API enables enrollment of supported credentials wi
 
 To view the digitalpersona-enrollment repo, click the following link.
 
-[Digitalpersona Authentication API Repo](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+[Digitalpersona Enrollment API Repo](https://lenhodgeman.github.io/digitalpersona-enrollment/)

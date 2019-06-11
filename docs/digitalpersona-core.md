@@ -17,4 +17,4 @@ The DigitalPersona Core Components contains the core classes and functions share
 
 To view the digitalpersona-core repo, click the following link.
 
-[Digitalpersona Authentication API Repo](https://lenhodgeman.github.io/digitalpersona-core/)
+[Digitalpersona Core Components Repo](https://lenhodgeman.github.io/digitalpersona-core/)
