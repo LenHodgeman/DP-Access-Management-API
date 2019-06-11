@@ -3,7 +3,7 @@ layout: default
 title: Overview
 nav_order: 1  
 ---
-[\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;[DRAFT A136]  
+[\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;[DRAFT A137]  
 
 ![](docs/assets/HID-logo.png)  
 
@@ -28,7 +28,7 @@ This documentation is divided into several sections that align with the specific
     <td>JS wrappers for the Web Access services which are shared by the authentication and enrollment APIs</td>
   </tr>
   <tr>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication/index.md">digitalpersona-authentication</A></td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
     <td>API enabling credential authentication</td>
   </tr>
   <tr>
