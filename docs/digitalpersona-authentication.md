@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 4
 ---
 
-[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Web Services APIs](https://lenhodgeman.github.io/DP-Access-Management-API/docs/web-services-apis.html)  
+[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/)  
 
 ![](assets/HID-logo.png)  
 
@@ -17,4 +17,4 @@ The DigitalPersona Authentication API is used to implement authentication of sup
 
 To view the digitalpersona-authentication repo, click the following link.
 
-[Digitalpersona Authentication API Repo](https://lenhodgeman.github.io/digitalpersona-authentication/) 
+[Digitalpersona Authentication API Repo](https://lenhodgeman.github.io/digitalpersona-authentication/)

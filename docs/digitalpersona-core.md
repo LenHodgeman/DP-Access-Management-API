@@ -4,9 +4,16 @@ title: Core Components
 has_toc: false
 nav_order: 2
 ---
-[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [JavaScript APIs and Samples](https://lenhodgeman.github.io/DP-Access-Management-API/docs/javascript-apis.html)  
+[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/)  
 
 ![](assets/HID-logo.png)  
 
+### Core Components  
 
-[This page is a placeholder. The previous link will redirect to the index.md page of the digitalpersona-core repo.]
+The DigitalPersona Core Components contains the core classes and functions shared by the DigitalPersona Access Management APIs.
+
+[Could use additional content, but not duplicating or overlapping the main content on the authentication repo.]
+
+To view the digitalpersona-core repo, click the following link.
+
+[Digitalpersona Authentication API Repo](https://lenhodgeman.github.io/digitalpersona-core/)

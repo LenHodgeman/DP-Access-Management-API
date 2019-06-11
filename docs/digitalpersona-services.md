@@ -4,9 +4,16 @@ title: Web Access Services
 has_toc: false
 nav_order: 3
 ---  
-[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/) [Native API](https://lenhodgeman.github.io/DP-Access-Management-API/docs/native-overview.html)  
+[DP Access Management API /](https://lenhodgeman.github.io/DP-Access-Management-API/)Web Access Services  
 
 ![](assets/HID-logo.png)  
 
+### Web Access Services  
 
-[This page is a placeholder. The previous link will redirect to the index.md page of the digitalpersona-core repo.]
+The DigitalPersona Web Access Serevices provides JavaScript wrappers for Web Access services which are shared by the authentication and enrollment APIs.
+
+[Could use additional content, but not duplicating or overlapping the main content on the authentication repo.]
+
+To view the digitalpersona-core repo, click the following link.
+
+[Digitalpersona Authentication API Repo](https://lenhodgeman.github.io/digitalpersona-services/)
