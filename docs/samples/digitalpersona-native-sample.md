@@ -2,7 +2,8 @@
 layout: default
 title: Native Sample
 has_toc: false
-nav_order: 9
+parent: Sample Application
+nav_order: 3
 ---
 
 [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Native Sample  
