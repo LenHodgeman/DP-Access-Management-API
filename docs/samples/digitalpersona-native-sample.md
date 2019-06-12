@@ -2,7 +2,7 @@
 layout: default
 title: Native Sample
 has_toc: false
-parent: Sample Application
+parent: Sample Applications
 nav_order: 3
 ---
 
