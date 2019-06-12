@@ -11,7 +11,7 @@ nav_order: 7
 
 ## Native API
 
-The DigitalPersona Native API allows the developer to add DigitalPersona authenticaiton, enrollment and device access to their Windows applications.
+The DigitalPersona Native API allows the developer to add DigitalPersona authentication, enrollment and device access to their Windows applications.
 
 [Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
 
