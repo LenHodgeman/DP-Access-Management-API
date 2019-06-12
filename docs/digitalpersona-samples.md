@@ -2,8 +2,6 @@
 layout: default
 title: Sample Applications
 has_toc: false
-has_children: true
-permalink: /samples  
 nav_order: 8
 ---
 
