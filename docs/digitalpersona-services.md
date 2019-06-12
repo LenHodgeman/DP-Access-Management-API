@@ -9,7 +9,7 @@ nav_order: 3
 
 ![](assets/HID-logo.png)  
 
-### Web Access Services  
+## Web Access Services  
 
 The DigitalPersona Web Access Services provide JavaScript wrappers for Web Access services shared by the authentication and enrollment APIs.
 
