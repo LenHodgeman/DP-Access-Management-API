@@ -66,7 +66,7 @@ This documentation is divided into several sections that align with the specific
 
 For web-based applications, you can use the Authentication or Enrollment APIs directly, or through the relevant JavaScript wrappers to enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or through custom policies defined by your application, and subsequently release their users’ protected data (secrets).
 
-For Windows native applications, the Native API provides an API which can accessed through either C++ or .NET appLICtions.
+For Windows native applications, the Native API provides an API which can accessed through either C++ or .NET applications.
 
 All of the authentication credentials provided in the DigitalPersona solution are supported through the corresponding APIs except for the Face credential (for web APIs) and the Bluetooth credential (web and Windows APIs).
 
