@@ -3,7 +3,7 @@ layout: default
 title: Overview
 nav_order: 1  
 ---
-###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A145 \|  
+###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A146 \|  
 
 ![](docs/assets/HID-logo.png)  
 
@@ -16,7 +16,7 @@ This documentation is divided into several sections that align with the specific
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
-    <th colspan="2"style="width:100px" ALIGN="left">Section</th>
+    <th colspan="2" style="width:100px" ALIGN="left">Section</th>
     <th style="width:100px" ALIGN="left">Purpose</th>
   </tr>
   <tr>
