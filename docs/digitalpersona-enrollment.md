@@ -9,7 +9,7 @@ nav_order: 5
 
 ![](assets/HID-logo.png)  
 
-### Enrollment API  
+## Enrollment API  
 
 The DigitalPersona Enrollment API enables enrollment of supported credentials within your web application.
 
