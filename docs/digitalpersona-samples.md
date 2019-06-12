@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 8
 ---
 
-[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Sample Applications
+###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Sample Applications
 
 ![](assets/HID-logo.png)  
 

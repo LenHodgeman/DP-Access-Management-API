@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 5
 ---
 
-[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Enrollment API  
+###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Enrollment API  
 
 ![](assets/HID-logo.png)  
 

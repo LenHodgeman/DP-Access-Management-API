@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 2  
 ---
 
-[DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core components  
+###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core components  
 
 ![](assets/HID-logo.png)  
 
