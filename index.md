@@ -3,7 +3,7 @@ layout: default
 title: Overview
 nav_order: 1  
 ---
-###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A147 \|  
+###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A148 \|  
 
 ![](docs/assets/HID-logo.png)  
 
@@ -16,31 +16,38 @@ This documentation is divided into several sections that align with the specific
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
-    <th colspan="2" style="width:100px" ALIGN="left">Section</th>
-    <th style="width:100px" ALIGN="left">Purpose</th>
+    <th style="width:40%" ALIGN="left">Section</th>
+    <th style="width:40%" ALIGN="left">Repository</th>
+    <th style="width:60%" ALIGN="left">Purpose</th>
   </tr>
   <tr>
-    <td colspan="2" valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
+  <td valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/index.html">Components</A></td>
+  <td valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
     <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
   <tr>
-    <td colspan="2" valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-services/index.html">digitalpersona-services</A></td>
+    <td>&nbsp;</td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-services/index.html">digitalpersona-services</A></td>
     <td>JS wrappers for the Web Access services which are shared by the authentication and enrollment APIs</td>
   </tr>
   <tr>
-    <td colspan="2" valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
+  <td>&nbsp;</td>
+  <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
     <td>API enabling credential authentication</td>
   </tr>
   <tr>
-    <td colspan="2" valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
+      <td>&nbsp;</td>
+      <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
     <td>API enabling credential enrollment</td>
   </tr>
   <tr>
-    <td colspan="2" valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-devices/index.html">digitalpersona-devices</A></td>
+      <td>&nbsp;</td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-devices/index.html">digitalpersona-devices</A></td>
     <td>API providing access to devices supported by the DigitalPersona Access Mangement API.</td>
   </tr>
   <tr>
-    <td colspan="2" valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-api/index.html">digitalpersona-native-api</A></td>
+      <td>&nbsp;</td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-api/index.html">digitalpersona-native-api</A></td>
     <td>API providing native Windows implementation of enrollment, authentication and device access.</td>
   </tr>
   <tr>
@@ -49,9 +56,9 @@ This documentation is divided into several sections that align with the specific
     <td>Sample web application illustrating web authentication, enrollmenbt and device access.</td>
   </tr>
   <tr>
-    <td  valign="top">&nbsp;</td>
-    <td><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-native-sample</A></td>
-    <td>Sample native application illustrating web enrollment, authentication and device access.</td>
+    <td valign="top">&nbsp;</td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-native-sample</A></td>
+    <td valign="top">Sample native application illustrating web enrollment, authentication and device access.</td>
   </tr>
 </table>
 

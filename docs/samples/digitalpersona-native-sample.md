@@ -8,7 +8,7 @@ nav_order: 2
 
 ![](../../docs/assets/HID-logo.png)  
 
-### Native Sample  
+### Native Sample Application   
 
 The DigitalPersona Native Sample illustrates ...
 
