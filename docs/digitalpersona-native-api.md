@@ -9,7 +9,7 @@ nav_order: 7
 
 ![](assets/HID-logo.png)
 
-### Native API
+## Native API
 
 The DigitalPersona Native API allows the developer to add DigitalPersona authenticaiton, enrollment and device access to their Windows applications.
 
