@@ -59,7 +59,7 @@ This documentation is divided into several sections that align with the specific
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-sample/index.html">digitalpersona-native-samples</A></td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-sample/index.html">digitalpersona-native-api</A></td>
     <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
   </tr>
 </table>
