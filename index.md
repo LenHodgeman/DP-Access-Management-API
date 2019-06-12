@@ -3,15 +3,16 @@ layout: default
 title: Overview
 nav_order: 1  
 ---
-###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A149 \|  
+###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A152 \|  
 
 ![](docs/assets/HID-logo.png)  
 
 ## Overview  
 
-The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built native and web-based applications.  
+The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built web-based amd native Windows applications.  
 
-Sample programs are also provided, which illustrate the features available through the included APIs.
+Sample programs are also provided, which illustrate the features available through the included APIs.  
+
 This documentation is divided into several sections that align with the specific uses of the various components, APIs and wrappers available. These sections are
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
@@ -28,7 +29,7 @@ This documentation is divided into several sections that align with the specific
   <tr>
     <td>&nbsp;</td>
     <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-services/index.html">digitalpersona-services</A></td>
-    <td>JS wrappers for the Web Access services which are shared by the authentication and enrollment APIs</td>
+    <td>JS wrappers for the Web Access Services shared by the authentication and enrollment APIs</td>
   </tr>
   <tr>
   <td>&nbsp;</td>
@@ -57,12 +58,14 @@ This documentation is divided into several sections that align with the specific
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-native-sample</A></td>
-    <td valign="top">Sample native application illustrating Windows enrollment, authentication and device access.</td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-sample/index.html">digitalpersona-native-samples</A></td>
+    <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
   </tr>
 </table>
 
-By using the Authentication or Enrollment APIs directly, or through the JavaScript wrappers, you can enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or through custom policies defined by your application, and subsequently release their users’ protected data (secrets).
+For web-based applications, you can use the Authentication or Enrollment APIs directly, or through the relevant JavaScript wrappers to enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or through custom policies defined by your application, and subsequently release their users’ protected data (secrets).
+
+For Windows native applications, the Native API provides an API which can accessed through either C++ or .NET appLICtions.
 
 All of the authentication credentials provided in the DigitalPersona solution are supported through the corresponding APIs except for the Face credential (for web APIs) and the Bluetooth credential (web and Windows APIs).
 
