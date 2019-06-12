@@ -3,7 +3,7 @@ layout: default
 title: Overview
 nav_order: 1  
 ---
-###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\|DRAFT A140\|  
+###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A141 \|  
 
 ![](docs/assets/HID-logo.png)  
 
@@ -42,11 +42,11 @@ This documentation is divided into several sections that align with the specific
   </tr>
   <tr>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-api/index.html">digitalpersona-native-api</A></td>
-    <td>API providing native Windows implementation of enrollment, authentication and device access</td>
+    <td>API providing native Windows implementation of enrollment, authentication and device access.</td>
   </tr>
   <tr>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
-    <td>Sample web application illustrating web authentication, enrollmenbt and device access</td>
+    <td>Sample web application illustrating web authentication, enrollmenbt and device access.</td>
   </tr>
 </table>
 
