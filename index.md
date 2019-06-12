@@ -3,7 +3,8 @@ layout: default
 title: Overview
 nav_order: 1  
 ---
-###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A152 \|  
+###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;  
+[//]: # (<--\| DRAFT A152 \|  -->)  
 
 ![](docs/assets/HID-logo.png)  
 
