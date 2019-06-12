@@ -11,4 +11,18 @@ nav_order: 8
 
 ![](../../docs/assets/HID-logo.png)  
 
-### Sample Applications
+## Sample Applications
+
+The DigitalPersona Sample Applications illustrate use of the web and native Windows APIs for enrollment, authentication and device access.
+
+[Could use additional high-level content, but not duplicating or overlapping the main content on the authentication repo.]
+
+To view the digitalpersona-samples GitHub Pages *documentation*, click one of the following links.
+
+[Digitalpersona Samples Overview](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+
+[Digitalpersona C++ Sample Appiication  Documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+
+[Digitalpersona .NET Sample Appiication  Documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+
+Links to the relevant repositories are provided in the documentation.
