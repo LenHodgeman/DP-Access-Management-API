@@ -7,7 +7,7 @@ nav_order: 8
 
 [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Sample Applications
 
-![](../../docs/assets/HID-logo.png)  
+![](assets/HID-logo.png)  
 
 ## Sample Applications
 
