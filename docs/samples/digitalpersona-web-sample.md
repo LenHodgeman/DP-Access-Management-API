@@ -8,7 +8,7 @@ nav_order: 1
 
 [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Web Sample  
 
-![](assets/HID-logo.png)  
+![](../../docs/assets/HID-logo.png)  
 
 ### Web Sample  
 
