@@ -3,7 +3,7 @@ layout: default
 title: Overview
 nav_order: 1  
 ---
-###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A146 \|  
+###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API Overview.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;\| DRAFT A147 \|  
 
 ![](docs/assets/HID-logo.png)  
 
@@ -20,7 +20,7 @@ This documentation is divided into several sections that align with the specific
     <th style="width:100px" ALIGN="left">Purpose</th>
   </tr>
   <tr>
-    <td colspan="2"valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
+    <td colspan="2" valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
     <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
   <tr>
