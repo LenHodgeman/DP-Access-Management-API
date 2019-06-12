@@ -17,7 +17,7 @@ This documentation is divided into several sections that align with the specific
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
     <th style="width:20%" ALIGN="left">Section</th>
-    <th style="width:35%" ALIGN="left">Repository</th>
+    <th style="width:35%" ALIGN="left">GitHub Pages documentation</th>
     <th style="width:45%" ALIGN="left">Purpose</th>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ This documentation is divided into several sections that align with the specific
   <tr>
     <td valign="top">&nbsp;</td>
     <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-native-sample</A></td>
-    <td valign="top">Sample native application illustrating web enrollment, authentication and device access.</td>
+    <td valign="top">Sample native application illustrating Windows enrollment, authentication and device access.</td>
   </tr>
 </table>
 
