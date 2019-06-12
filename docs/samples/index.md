@@ -23,6 +23,6 @@ To view the digitalpersona-samples GitHub Pages *documentation*, click one of th
 
 [Digitalpersona C++ Sample Appiication  Documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
 
-[Digitalpersona .NET Sample Appiication  Documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+[Digitalpersona .NET Sample Application  Documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
 
 Links to the relevant repositories are provided in the documentation.
