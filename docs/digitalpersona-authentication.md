@@ -9,7 +9,7 @@ nav_order: 4
 
 ![](assets/HID-logo.png)  
 
-### Authentication API  
+## Authentication API  
 
 The DigitalPersona Authentication API is used to implement authentication of supported credentials in your web-based application.
 
