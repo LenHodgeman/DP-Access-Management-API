@@ -16,7 +16,7 @@ Sample programs are also provided, which illustrate the features available throu
 
 This documentation is divided into several sections that align with the specific uses of the various components, APIs and wrappers available.
 
-To view an overview of each section, on dekstop browsers, use the links on the left. For mobile browsers, use the Menu button at the top of the screen.
+To read an overview of each section, on desktop browsers, use the links on the left. For mobile browsers, use the Menu button at the top of the screen.
 
 To go directly to detailed documentation on an item, use the links below to view the GitHub Pages documentation provided with the item's repository.
 
