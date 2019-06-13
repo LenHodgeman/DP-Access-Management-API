@@ -59,11 +59,11 @@ To go directly to detailed documentation on an item, use the links below to view
   <tr>
     <td  valign="top">Sample Applications</td>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
-    <td>Sample web application illustrating web authentication, enrollmenbt and device access.</td>
+    <td>Sample web application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-api/index.html">digitalpersona-native-api</A></td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
     <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
   </tr>
 </table>
