@@ -27,7 +27,7 @@ To go directly to detailed documentation on an item, use the links below to view
     <th style="width:45%" ALIGN="left">Purpose</th>
   </tr>
   <tr>
-  <td valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/index.html">Components</A></td>
+  <td valign="top" >Components</td>
   <td valign="top" ><A HREF="https://lenhodgeman.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
     <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
@@ -57,7 +57,7 @@ To go directly to detailed documentation on an item, use the links below to view
     <td>API providing native Windows implementation of enrollment, authentication and device access.</td>
   </tr>
   <tr>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">Sample Applications</A></td>
+    <td  valign="top">Sample Applications</td>
     <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
     <td>Sample web application illustrating web authentication, enrollmenbt and device access.</td>
   </tr>
