@@ -23,7 +23,7 @@ To go directly to detailed documentation on an item, use the links below to view
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
     <th style="width:20%" ALIGN="left">Section</th>
-    <th style="width:35%" ALIGN="left">GitHub Pages documentation</th>
+    <th style="width:35%" ALIGN="left">Repository & documentation</th>
     <th style="width:45%" ALIGN="left">Purpose</th>
   </tr>
   <tr>
