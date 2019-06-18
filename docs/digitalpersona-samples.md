@@ -17,12 +17,12 @@ The DigitalPersona Sample Applications illustrate use of the web and native Wind
 
 Each sample application is available in its own repository.
 
-[Digitalpersona JavaScript sample application](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+[Digitalpersona JavaScript sample application](https://lenhodgeman.github.io/digitalpersona-javascript-sample-application/)
 
-[Digitalpersona web sample application](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+[Digitalpersona web sample application](https://lenhodgeman.github.io/digitalpersona-web-sample/)
 
-[Digitalpersona C++ sample application  Documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+[Digitalpersona C++ sample application  Documentation](https://lenhodgeman.github.io/digitalpersona-native-samples/)
 
-[Digitalpersona .NET sample Application  Documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+[Digitalpersona .NET sample Application  Documentation](https://lenhodgeman.github.io/digitalpersona-native-samples/)
 
 Links to the relevant repositories are provided in the documentation.
