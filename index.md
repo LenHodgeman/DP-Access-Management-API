@@ -67,6 +67,11 @@ To go directly to detailed documentation on an item, use the links below to view
     <td>Sample application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
+    <td  valign="top">&nbsp;</td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-oidc-sample</A></td>
+    <td>Sample application using OpenID Connect that illustrates web authentication, enrollment and device access.</td>
+  </tr>
+  <tr>
     <td valign="top">&nbsp;</td>
     <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
     <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
