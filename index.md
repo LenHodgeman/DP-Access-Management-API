@@ -58,8 +58,13 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td  valign="top">Sample Applications</td>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-javascript-sample</A></td>
     <td>Sample web application illustrating web authentication, enrollment and device access.</td>
+  </tr>
+  <tr>
+    <td  valign="top">&nbsp;</td>
+    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
+    <td>Sample application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
