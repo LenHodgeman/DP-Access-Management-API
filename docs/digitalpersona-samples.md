@@ -17,6 +17,8 @@ Each sample application is available in its own repository.
 
 [Digitalpersona JavaScript sample application](https://lenhodgeman.github.io/digitalpersona-javascript-sample-app/)
 
+[OpenID Connect (OIDC) sample application](https://lenhodgeman.github.io/digitalpersona-oidc-sample-app/)
+
 [Digitalpersona web sample application](https://lenhodgeman.github.io/digitalpersona-web-sample/)
 
 [Digitalpersona C++ sample application](https://lenhodgeman.github.io/digitalpersona-native-samples/)
