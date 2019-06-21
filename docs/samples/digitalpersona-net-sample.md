@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C++ Sample Application
+title: .NET Sample Application
 has_toc: false
 Parent: Sample Applications
 nav_order: 5  
