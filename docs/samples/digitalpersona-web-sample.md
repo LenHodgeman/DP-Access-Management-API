@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C++ Sample Application
+title: Web Sample Application
 has_toc: false
 parent: Sample Applications
 nav_order: 3  
