@@ -15,7 +15,7 @@ The DigitalPersona Devices API provides access to devices supported by the Digit
 
 To view the digitalpersona-devices GitHub Pages documentation, click the following link.
 
-[Digitalpersona Devices API Documentatin](https://lenhodgeman.github.io/digitalpersona-devices/)
+[Digitalpersona Devices API Documentation](https://lenhodgeman.github.io/digitalpersona-devices/)
 
 To view the digitalpersona-devices Repo, click this link.
 
