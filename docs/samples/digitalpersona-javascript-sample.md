@@ -1,7 +1,7 @@
 ---
 layout: default
 title: JavaScript Sample Application
-Sample Applications
+parent: Sample Applications
 has_toc: false
 nav_order: 1  
 ---

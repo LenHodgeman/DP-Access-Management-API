@@ -2,7 +2,7 @@
 layout: default
 title: .NET Sample Application
 has_toc: false
-Parent: Sample Applications
+parent: Sample Applications
 nav_order: 5  
 ---
 

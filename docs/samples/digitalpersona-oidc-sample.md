@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Open ID Connect Sample Application
+title: OIDC Sample Application
 has_toc: false
-Parent: Sample Applications
+parent: Sample Applications
 nav_order: 2  
 ---
 
