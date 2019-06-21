@@ -13,10 +13,10 @@ nav_order: 5
 
 The DigitalPersona Enrollment API enables enrollment of supported credentials within your web application.
 
-To view the digitalpersona-enrollment GitHub Pages documentation, click the following link.
+To view the digitalpersona-enrollment GitHub Pages *documentation*, click the following link.
 
-[Digitalpersona Enrollment API Documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
+[Digitalpersona Enrollment API documentation](https://lenhodgeman.github.io/digitalpersona-enrollment/)
 
-To view the digitalpersona-enrollment Repo, click this link.
+To view the digitalpersona-enrollment *repository*, click this link.
 
-[Digitalpersona Enrollment API Repo](https://github.com/LenHodgeman/digitalpersona-enrollment/)
+[Digitalpersona Enrollment API repository](https://github.com/LenHodgeman/digitalpersona-enrollment/)
