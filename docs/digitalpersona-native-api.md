@@ -17,6 +17,6 @@ To view the digitalpersona-services GitHub Pages *documentation*, click the foll
 
 [Digitalpersona Native API documentation](https://lenhodgeman.github.io/digitalpersona-native-api/)
 
-To view the digitalpersona-services *Repo*, click this link.
+To view the digitalpersona-services *repo*, click this link.
 
-[Digitalpersona Native API Repo](https://github.com/LenHodgeman/digitalpersona-native-api/)
+[Digitalpersona Native API repo](https://github.com/LenHodgeman/digitalpersona-native-api/)
