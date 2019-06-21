@@ -13,10 +13,10 @@ nav_order: 6
 
 The DigitalPersona Devices API provides access to devices supported by the DigitalPersona Access Management API.
 
-To view the digitalpersona-devices GitHub Pages documentation, click the following link.
+To view the digitalpersona-devices GitHub Pages *documentation*, click the following link.
 
-[Digitalpersona Devices API Documentation](https://lenhodgeman.github.io/digitalpersona-devices/)
+[Digitalpersona Devices API documentation](https://lenhodgeman.github.io/digitalpersona-devices/)
 
-To view the digitalpersona-devices Repo, click this link.
+To view the digitalpersona-devices repository, click this link.
 
-[Digitalpersona Devices API Repo](https://github.com/LenHodgeman/digitalpersona-devices/)
+[Digitalpersona Devices API repository](https://github.com/LenHodgeman/digitalpersona-devices/)
