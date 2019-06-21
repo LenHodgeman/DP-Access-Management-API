@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sample Applications
+has_children: true
+permalink: /samples
 has_toc: false
 nav_order: 8
 ---
@@ -13,7 +15,7 @@ nav_order: 8
 
 The DigitalPersona Sample Applications illustrate use of the web and native Windows APIs for enrollment, authentication and device access.
 
-Each sample application is available in its own repository.
+Use the following links to view documentation for each sample application. Links to the associated repositories are provided in the documentation.
 
 [Digitalpersona JavaScript sample application](https://lenhodgeman.github.io/digitalpersona-javascript-sample-app/)
 
@@ -24,5 +26,3 @@ Each sample application is available in its own repository.
 [Digitalpersona C++ sample application](https://lenhodgeman.github.io/digitalpersona-native-samples/)
 
 [Digitalpersona .NET sample application](https://lenhodgeman.github.io/digitalpersona-native-samples/)
-
-Links to the relevant repositories are provided in the documentation.
