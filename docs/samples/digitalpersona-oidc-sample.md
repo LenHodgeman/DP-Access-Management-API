@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C++ Sample Application
+title: Open ID Connect Sample Application
 has_toc: false
 Parent: Sample Applications
 nav_order: 2  
