@@ -15,7 +15,7 @@ The DigitalPersona Web Access Services provide JavaScript wrappers for Web Acces
 
 To view the digitalpersona-services GitHub Pages documentation, click the following link.
 
-[Digitalpersona Web Access Services Documentation](https://lenhodgeman.github.io/digitalpersona-services)
+[Digitalpersona Web Access Services Documentation](https://lenhodgeman.github.io/digitalpersona-services/)
 
 To view the digitalpersona-services Repo, click this link.
 
