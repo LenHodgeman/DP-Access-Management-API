@@ -9,9 +9,10 @@ nav_order: 8
 
 ###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Sample Applications
 
-![](assets/HID-logo.png)  
 
-# Sample Applications
+![](../assets/HID-logo.png)  
+
+## Sample Applications
 
 The DigitalPersona Sample Applications illustrate use of the web and native Windows APIs for enrollment, authentication and device access.
 
