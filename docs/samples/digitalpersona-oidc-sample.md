@@ -6,9 +6,7 @@ parent: Sample Applications
 nav_order: 2  
 ---
 
-###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Sample Applications / Open ID Connect Sample Application  
-
-![](assets/HID-logo.png)  
+![](../assets/HID-logo.png) 
 
 ## Open ID Connect Sample Application
 

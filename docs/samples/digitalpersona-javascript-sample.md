@@ -6,7 +6,7 @@ has_toc: false
 nav_order: 1  
 ---
 
-![](assets/HID-logo.png)  
+![](../assets/HID-logo.png)  
 
 ## JavaScript Sample Application
 

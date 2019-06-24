@@ -6,9 +6,7 @@ parent: Sample Applications
 nav_order: 3  
 ---
 
-###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Sample Applications / Web Sample Application  
-
-![](assets/HID-logo.png)  
+![](../assets/HID-logo.png)  
 
 ## Web Sample Application
 
