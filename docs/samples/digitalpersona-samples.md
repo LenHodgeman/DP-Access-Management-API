@@ -11,7 +11,7 @@ nav_order: 8
 
 ![](assets/HID-logo.png)  
 
-## Sample Applications
+# Sample Applications
 
 The DigitalPersona Sample Applications illustrate use of the web and native Windows APIs for enrollment, authentication and device access.
 
