@@ -17,6 +17,6 @@ To view the digitalpersona-devices GitHub Pages *documentation*, click the follo
 
 [Digitalpersona Devices API documentation](https://lenhodgeman.github.io/digitalpersona-devices/)
 
-To view the digitalpersona-devices repository, click this link.
+To view the digitalpersona-devices *repository*, click this link.
 
 [Digitalpersona Devices API repository](https://github.com/LenHodgeman/digitalpersona-devices/)
