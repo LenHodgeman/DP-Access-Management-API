@@ -3,7 +3,7 @@ layout: default
 title: Overview
 nav_order: 1  
 ---
-###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;| DRAFT A156 |  
+###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/LenHodgeman/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;| REVIEW DRAFT  |  
 [//]: #(<--\| DRAFT A154 \|  -->)  
 
 ![](docs/assets/HID-logo.png)  
@@ -18,7 +18,7 @@ This documentation is divided into several sections that align with the specific
 
 To read an overview of each section, on desktop browsers, use the links on the left. For mobile browsers, use the Menu button at the top of the screen.
 
-To go directly to detailed documentation on an item, use the links below to view the GitHub Pages documentation provided with the item's repository. Links to each repository is provided on the first page of its documentation.
+To go directly to detailed documentation on an item, use the links below to view the GitHub Pages documentation provided with the item's repository. Links to each repository are provided on the first page of its documentation.
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
