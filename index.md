@@ -38,8 +38,8 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-enrollment-services/index.html">digitalpersona-web-enrolllment-services</A></td>
-    <td>JS wrappers for the Web Access Services shared by the authentication and enrollment APIs</td>
+    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-access-management-services/index.html">digitalpersona-access-management-services</A></td>
+    <td>[TBD]]</td>
   </tr>  
   <tr>
   <td>&nbsp;</td>

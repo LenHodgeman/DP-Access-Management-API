@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Access Services
+title: Access Managment Services
 has_toc: false
 nav_order: 4
 ---
@@ -9,9 +9,9 @@ nav_order: 4
 
 ![](assets/HID-logo.png)  
 
-## Web Access Services  
+## Access Management Services  
 
-The DigitalPersona Web Access Services provide JavaScript wrappers for Web Access services shared by the authentication and enrollment APIs.
+[TBD]
 
 To view the digitalpersona-services GitHub Pages *documentation*, click the following link.
 
