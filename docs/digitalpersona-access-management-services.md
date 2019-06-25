@@ -15,10 +15,10 @@ The DigitalPersona Access management Services are a collection of RESTful servic
 
 These services are:
 
-- Web Enrollment Services (WES)
-- Web Secret Management Service (WSMS)  
-- Web Authentication Service (WAS)
-- Web Authentication Policy Service (WAPS)
+- [Web Enrollment Services (WES)](https://lenhodgeman.github.io/digitalpersona-access-management-services/docs/wes.html)
+- [Web Secret Management Service (WSMS)](https://lenhodgeman.github.io/digitalpersona-access-management-services/docs/wsms.html)  
+- [Web Authentication Service (WAS)](https://lenhodgeman.github.io/digitalpersona-access-management-services/docs/wsms.html)
+- [Web Authentication Policy Service (WAPS)](https://lenhodgeman.github.io/digitalpersona-access-management-services/docs/waps.html)
 
 The last three of the services mentioned above were formerly part of the DigitalPersona Web AUTH SDK.
 
@@ -28,4 +28,4 @@ To view the digitalpersona-access-management-services GitHub Pages *documentatio
 
 To view the digitalpersona-services *repository*, click this link.
 
-[Digitalpersona Access Management Services  repository](https://github.com/LenHodgeman/digitalpersona-access-management-services/)
+[Digitalpersona Access Management Services repository](https://github.com/LenHodgeman/digitalpersona-access-management-services/)
