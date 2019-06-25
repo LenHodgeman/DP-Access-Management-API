@@ -11,12 +11,21 @@ nav_order: 4
 
 ## Access Management Services  
 
-[TBD]
+The DigitalPersona Access management Services are a collection of RESTful services used to implement various features of the DigitalPersona solution in web-applications.
 
-To view the digitalpersona-services GitHub Pages *documentation*, click the following link.
+These services are:
 
-[Digitalpersona Web Access Services documentation](https://lenhodgeman.github.io/digitalpersona-services/)
+- DigitalPersona Web Enrollment Services (WES)
+- Web Secret Management Service (WSMS)
+- Web Authentication Policy Service (WAPS)  
+- Web Authentication Service (DP WAS)
+
+The last three of the services mentioned above were formerly part of the DigitalPersona Web AUTH SDK.
+
+To view the digitalpersona-access-management-services GitHub Pages *documentation*, click the following link.
+
+[Digitalpersona Access Management Services documentation](https://lenhodgeman.github.io/digitalpersona-access-management-services/)
 
 To view the digitalpersona-services *repository*, click this link.
 
-[Digitalpersona Web Access Services  repository](https://github.com/LenHodgeman/digitalpersona-services/)
+[Digitalpersona Access Management Services  repository](https://github.com/LenHodgeman/digitalpersona-access-management-services/)
