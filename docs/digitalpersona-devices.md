@@ -2,7 +2,7 @@
 layout: default
 title: Devices API
 has_toc: false
-nav_order: 6  
+nav_order: 7  
 ---
 
 ###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Devices API  

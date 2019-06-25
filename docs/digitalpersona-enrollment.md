@@ -2,7 +2,7 @@
 layout: default
 title: Enrollment API
 has_toc: false
-nav_order: 5
+nav_order: 6
 ---
 
 ###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Enrollment API  
