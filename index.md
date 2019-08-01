@@ -8,7 +8,9 @@ nav_order: 1
 
 ![](docs/assets/HID-logo.png)  
 
-# Sample Applications
+# Bank of DigitalPersona Sample Application
+# OpenID COnnect Sample Application
+# DigitalPersona Native API
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built web-based and native Windows applications.  
 
